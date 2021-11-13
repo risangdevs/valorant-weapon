@@ -1,0 +1,164 @@
+[
+  {
+    "displayName": "Odin",
+    "fireRate": 12,
+    "magazineSize": 100,
+    "runSpeedMultiplier": 0.76,
+    "reloadTime": 5,
+    "equipTime": 1.25,
+    "accuracy": 0.8
+  },
+  {
+    "displayName": "Ares",
+    "fireRate": 10,
+    "magazineSize": 50,
+    "runSpeedMultiplier": 0.76,
+    "reloadTime": 3.25,
+    "equipTime": 1.25,
+    "accuracy": 0.8
+  },
+  {
+    "displayName": "Vandal",
+    "fireRate": 9.75,
+    "magazineSize": 25,
+    "runSpeedMultiplier": 0.8,
+    "reloadTime": 2.5,
+    "equipTime": 1,
+    "accuracy": 0.25
+  },
+  {
+    "displayName": "Bulldog",
+    "fireRate": 9.5,
+    "magazineSize": 24,
+    "runSpeedMultiplier": 0.8,
+    "reloadTime": 2.5,
+    "equipTime": 1,
+    "accuracy": 0.3
+  },
+  {
+    "displayName": "Phantom",
+    "fireRate": 11,
+    "magazineSize": 30,
+    "runSpeedMultiplier": 0.8,
+    "reloadTime": 2.5,
+    "equipTime": 1,
+    "accuracy": 0.2
+  },
+  {
+    "displayName": "Judge",
+    "fireRate": 3.5,
+    "magazineSize": 7,
+    "runSpeedMultiplier": 0.75,
+    "reloadTime": 2.2,
+    "equipTime": 1,
+    "accuracy": 2.25
+  },
+  {
+    "displayName": "Bucky",
+    "fireRate": 1.1,
+    "magazineSize": 5,
+    "runSpeedMultiplier": 0.75,
+    "reloadTime": 2.5,
+    "equipTime": 1,
+    "accuracy": 2.6
+  },
+  {
+    "displayName": "Frenzy",
+    "fireRate": 10,
+    "magazineSize": 13,
+    "runSpeedMultiplier": 0.85,
+    "reloadTime": 1.5,
+    "equipTime": 1,
+    "accuracy": 0.45
+  },
+  {
+    "displayName": "Classic",
+    "fireRate": 6.75,
+    "magazineSize": 12,
+    "runSpeedMultiplier": 0.85,
+    "reloadTime": 1.75,
+    "equipTime": 0.75,
+    "accuracy": 0.4
+  },
+  {
+    "displayName": "Ghost",
+    "fireRate": 6.75,
+    "magazineSize": 15,
+    "runSpeedMultiplier": 0.85,
+    "reloadTime": 1.5,
+    "equipTime": 0.75,
+    "accuracy": 0.3
+  },
+  {
+    "displayName": "Sheriff",
+    "fireRate": 4,
+    "magazineSize": 6,
+    "runSpeedMultiplier": 0.8,
+    "reloadTime": 2.25,
+    "equipTime": 1,
+    "accuracy": 0.25
+  },
+  {
+    "displayName": "Shorty",
+    "fireRate": 3.33,
+    "magazineSize": 2,
+    "runSpeedMultiplier": 0.8,
+    "reloadTime": 1.75,
+    "equipTime": 0.75,
+    "accuracy": 4
+  },
+  {
+    "displayName": "Operator",
+    "fireRate": 0.6,
+    "magazineSize": 5,
+    "runSpeedMultiplier": 0.76,
+    "reloadTime": 3.7,
+    "equipTime": 1.5,
+    "accuracy": 5
+  },
+  {
+    "displayName": "Guardian",
+    "fireRate": 5.25,
+    "magazineSize": 12,
+    "runSpeedMultiplier": 0.8,
+    "reloadTime": 2.5,
+    "equipTime": 1,
+    "accuracy": 0.1
+  },
+  {
+    "displayName": "Marshal",
+    "fireRate": 1.5,
+    "magazineSize": 5,
+    "runSpeedMultiplier": 0.8,
+    "reloadTime": 2.5,
+    "equipTime": 1.25,
+    "accuracy": 1
+  },
+  {
+    "displayName": "Spectre",
+    "fireRate": 13.333,
+    "magazineSize": 30,
+    "runSpeedMultiplier": 0.85,
+    "reloadTime": 2.25,
+    "equipTime": 0.75,
+    "accuracy": 0.4
+  },
+  {
+    "displayName": "Stinger",
+    "fireRate": 16,
+    "magazineSize": 20,
+    "runSpeedMultiplier": 0.85,
+    "reloadTime": 2.25,
+    "equipTime": 0.75,
+    "accuracy": 0.65
+  },
+  {
+    "displayName": "Melee",
+    "fireRate": 0,
+    "magazineSize": 0,
+    "runSpeedMultiplier": 0,
+    "reloadTime": 0,
+    "equipTime": 0,
+    "accuracy": 0
+  }
+]
