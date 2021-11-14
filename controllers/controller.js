@@ -4,7 +4,7 @@ class Controller{
     static home(req,res){
         Weapon.findAll({
             raw:true,
-            // include:[{model: WeaponStat}]
+            include:[{model: WeaponStat}]
 
             // include: {
             //     model: Weapon,
@@ -12,7 +12,7 @@ class Controller{
             // }
         })
             .then(data=>{
-                // console.log(data);
+                // console.log(data[0]['WeaponStat.fireRate']);
                 res.render('home',{data})
             })
             .catch(err=>{
